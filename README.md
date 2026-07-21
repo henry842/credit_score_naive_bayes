@@ -61,18 +61,15 @@ Coleta → EDA → Encoding → Análise de Correlação → Train/Test Split �
 ## 🚀 Como Executar
 
 ```bash
-git clone https://github.com/henry842/Projeto-de-Credit-Score.git
-cd Projeto-de-Credit-Score
+git clone https://github.com/henry842/credit_score_naive_bayes.git
+cd credit_score_naive_bayes
 pip install -r requirements.txt
-jupyter notebook credit_score.ipynb
+jupyter notebook "Profissao Cientista de Dados M20 Pratique.ipynb"
 ```
 
 ---
 
 <div align="center">
-  <a href="https://github.com/henry842">👤 henry842</a> •
-  <a href="https://github.com/henry842?tab=repositories">📂 Outros projetos</a>
+<a href="https://github.com/henry842">👤 henry842</a> •
+<a href="https://github.com/henry842?tab=repositories">📂 Outros projetos</a>
 </div>
-
----
----

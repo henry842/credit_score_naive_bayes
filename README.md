@@ -72,7 +72,7 @@ Objetivo principal: Classificar comportamento de score de credito com Naive Baye
 
 ### Chapter 1 - Data Understanding | Entendimento dos Dados
 
-![Data Understanding | Entendimento dos Dados](assets/readme/project_overview.svg)
+![Data Understanding | Entendimento dos Dados](assets/grafico_01.png)
 
 **EN**
 
@@ -88,6 +88,8 @@ O que a base ou entradas representam, qual e o significado de cada observacao e 
 
 ### Chapter 2 - Exploratory Analysis | Analise Exploratoria
 
+![Exploratory Analysis | Analise Exploratoria](assets/grafico_02.png)
+
 **EN**
 
 The first visual layer reveals distributions, outliers, concentrations and relationships that guide the rest of the project.
@@ -102,6 +104,8 @@ A primeira camada visual revela distribuicoes, outliers, concentracoes e relacoe
 
 ### Chapter 3 - Modeling / Logic | Modelagem ou Logica
 
+![Modeling / Logic | Modelagem ou Logica](assets/grafico_03.png)
+
 **EN**
 
 The project translates data into decisions using statistical reasoning, rules, SQL logic, machine learning or an interactive workflow.
@@ -115,6 +119,8 @@ O projeto transforma dados em decisoes usando raciocinio estatistico, regras, lo
 - PT-BR: A evidencia visual ajuda a conectar o resultado tecnico a uma decisao ou interpretacao concreta.
 
 ### Chapter 4 - Results and Interpretation | Resultados e Interpretacao
+
+![Results and Interpretation | Resultados e Interpretacao](assets/grafico_04.png)
 
 **EN**
 
